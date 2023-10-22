@@ -2,6 +2,9 @@
 
 **Programming Basics with Python - February 2023**
 
+Within the folders, you'll find comprehensive information and breakdown of my weekly learnings. 
+Each week's folder details the topics I covered, the extent of the learning undertaken, in-depth information on the problems I tackled, and reflections on my educational journey.
+
 The "Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. 
 
 This includes writing programming code at an entry level (basic coding skills), working with a development environment (IDE), 
@@ -21,3 +24,4 @@ using conditional constructs (if, if-else) and loops (for, while, do-while).
 •	Perform simple calculations
 
 •	Working with more complex loops (nested for loops and while)
+
