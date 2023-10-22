@@ -16,4 +16,4 @@ Each week's folder presents the topics I covered, the depth of study undertaken,
 The "Programming Basics" course equips students with the foundational programming competencies required for all technology majors at Software University.
 
 This encompasses writing programming code at an entry level, familiarising with a development environment (IDE), employing variables, data structures, operators, and expressions, 
-interfacing with the console (reading input data and outputting results), and utilising conditional statements (such as if, if-else) and loops (for and while).
+interfacing with the console (reading input data and outputting results), utilising conditional statements (if, elif, else) and using loops (for loop, while loop and nested loops).
