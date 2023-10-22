@@ -9,12 +9,15 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 5. While Loop
 6. Nested Loops
 
-Within the folders, you will find comprehensive information and breakdown of my weekly learnings. 
-Each week's folder details the topics I covered, the extent of the learning undertaken, in-depth information on the problems I solved, and reflections on my educational journey.
+Within the folders, you will find comprehensive information and a breakdown of what I've learned each week. 
+
+Each week's folder details the topics I covered, the extent of the learning undertaken, in-depth information about the problems I solved,
+and reflections on my educational journey.
 
 The "Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. 
 
 This includes writing programming code at an entry level (basic coding skills), working with a development environment (IDE), 
-using variables and data, operators and expressions, working with the console (reading input data and printing results),
+using variables, data, operators, and expressions, working with the console (reading input data and printing results), 
 using conditional constructs (if, if-else) and loops (for, while, do-while).
+
 
