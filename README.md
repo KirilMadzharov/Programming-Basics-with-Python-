@@ -1,6 +1,6 @@
-# Programming-Basics-with-Python-
+# Programming-Basics-with-Python-February-2023
 
-**Programming Basics with Python - January 2023**
+**Programming Basics with Python - February 2023**
 
 The "Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. 
 
