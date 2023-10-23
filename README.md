@@ -11,7 +11,7 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 7. Drawing Figures with Loops - Additional Exercises
 8. Exam Preparation Exercises
 9. Exam
-10. Official Certification from Soft Uni with QR code for checking the validity of the document
+10. Official Certification issued by Software University. The authenticity of this document can be confirmed using the QR code located at the bottom of the certificate
 11. README file
 
 Within the folders, you will find detailed documentation and a breakdown of the content I've studied each week.
