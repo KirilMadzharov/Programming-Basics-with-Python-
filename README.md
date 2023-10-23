@@ -8,6 +8,9 @@ In the repository "Programming-Basics-with-Python-February-2023" you will find t
 4. For Loop
 5. While Loop
 6. Nested Loops
+7. Drawing Figures with Loops - Additional Exercises
+8. Exam Preparation Exercises
+9. Exam
 
 Within the folders, you will find detailed documentation and a breakdown of the content I've studied each week.
 
