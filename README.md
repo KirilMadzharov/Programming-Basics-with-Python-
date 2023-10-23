@@ -1,6 +1,6 @@
 # Programming-Basics-with-Python-February-2023
 
-In the repository "Programming-Basics-with-Python-February-2023" you will find the following folders:
+In the repository "Programming-Basics-with-Python-February-2023" you will find the following folders and information:
 
 1. First Steps in Coding
 2. Conditional Statements
